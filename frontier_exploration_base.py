@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-"""
-@author: Lars Schilling
 
-"""
 #imports
 import rospy
 from sensor_msgs.msg import Image
